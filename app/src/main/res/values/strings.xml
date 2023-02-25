@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="not">Неявное</string>
+    <string name="yes">Явное</string>
+</resources>
